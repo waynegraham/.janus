@@ -9,7 +9,7 @@
   url = https://github.com/editorconfig/editorconfig-vim.git
 [submodule "vim-airline"]
 	path = vim-airline
-  url = https://github.com/bling/vim-airline.git
+	url = https://github.com/bling/vim-airline.git
 [submodule "editorconfig-vim"]
 	path = editorconfig-vim
 	url = https://github.com/editorconfig/editorconfig-vim.git
