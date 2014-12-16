@@ -3,4 +3,10 @@
 	url = git@github.com:gregsexton/MatchTag.git
 [submodule "vim-preview"]
 	path = vim-preview
-	url = https://github.com/greyblake/vim-preview.git
+  url = https://github.com/greyblake/vim-preview.git
+[submodule "editor-config"]
+	path = editor-config
+  url = https://github.com/editorconfig/editorconfig-vim.git
+[submodule "vim-airline"]
+	path = vim-airline
+  url = https://github.com/bling/vim-airline.git
