@@ -13,3 +13,6 @@
 [submodule "editorconfig-vim"]
 	path = editorconfig-vim
 	url = https://github.com/editorconfig/editorconfig-vim.git
+[submodule "vim-bundler"]
+	path = vim-bundler
+	url = https://github.com/tpope/vim-bundler.git
